@@ -34,7 +34,7 @@ School: ICAI Comillas / Centrale Nantes
 
 ### Final Exam: Security audit
 During my last year in ICAI Comillas, during the application security class I had a practical final exam.
-You can find my security report [here](Practica_SEGAP_pablo_ortolan). 
+You can find my security report [here](audit_segapp.pdf). 
 
 Context: The audited application, Blues Breaker Bank app is a typical bank app where users, employees and admins can connect. Depending on their access authorization, they can access accounts and make transfers.
 The audit objective is to reflects a adequate summary of the vulnerabilities found.
