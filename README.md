@@ -6,7 +6,8 @@ Welcome to my Study Repository! This repository contains resources and materials
 ## Contents
 
 - [About the Study](#about-the-study)
-- [Resources](#resources)
+- [Master Thesis](#master-thesis)
+- [Security audit](#security-audit)
 - [Contact](#contact)
 - [Links](#links)
 
@@ -15,11 +16,7 @@ Welcome to my Study Repository! This repository contains resources and materials
 [Provide a brief overview of the study, including its purpose, objectives, and significance.]
 
 
-## Resources
-
-[List any publications, articles, or reports associated with the study. Include links if available.]
-
-### Master Thesis
+## Master Thesis
 You can find my Master Thesis [here](Master_Thesis_ICAI_v3.pdf).
 
 Subject: "Optimizing prompts engineering for improved generative AI content."
@@ -32,7 +29,7 @@ Supervisor: Mario Castro Ponce & Federico Muñoz Babiano
 
 School: ICAI Comillas / Centrale Nantes
 
-### Final Exam: Security audit
+## Final Exam: Security audit
 During my last year in ICAI Comillas, during the application security class I had a practical final exam.
 You can find my security report [here](audit_segapp.pdf). 
 
